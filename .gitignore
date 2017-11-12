@@ -18,3 +18,5 @@
 
 # Do not share secrets
 /config/secrets.yml
+
+.env
